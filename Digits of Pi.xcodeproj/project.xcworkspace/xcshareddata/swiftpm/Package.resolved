@@ -1,0 +1,15 @@
+{
+  "originHash" : "fe3e861cd2d1c508e5199071cfcebab33c9446ff4ee9d73cfecfdeaa2e10767c",
+  "pins" : [
+    {
+      "identity" : "bigint",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mgriebling/BigInt",
+      "state" : {
+        "revision" : "f4c0c41dd681b2c3d770b9a83cb5e0e3e30ee708",
+        "version" : "2.3.0"
+      }
+    }
+  ],
+  "version" : 3
+}
